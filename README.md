@@ -1,4 +1,4 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game Clone Project of Don Kim
 
 ## Table of Contents
 
